@@ -12,4 +12,4 @@
 ## How to install
 
 -Step 1: Download the zip file or use git clone
-- step 2
+-Step 2: This is step 2
